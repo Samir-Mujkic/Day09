@@ -8,7 +8,7 @@ function myEquealFunction(num) {
 console.log(myEquealFunction(5));
 console.log(myEquealFunction(23));
 console.log(myEquealFunction("23"));
-console.log(myEquealFunction("23"));
+console.log(myEquealFunction('23'));
 console.log(myEquealFunction("text"));
 
 //Only change code above this line
