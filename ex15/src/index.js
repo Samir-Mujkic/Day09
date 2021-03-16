@@ -1,4 +1,5 @@
 function myDoWhile() {
+  //Write code below this line
   var myNumbers = "";
   var i = 0;
   do {
@@ -8,16 +9,16 @@ function myDoWhile() {
       myNumbers += i;
     }
     i++;
-    
-    
 
-  }while(i < 10);
-  return myNumbers; 
+
+
+  } while (i < 10);
+  return myNumbers;
 }
 
-  
+
 
 
 console.log(myDoWhile());
-
+//Write code above this line
 module.exports = myDoWhile;
