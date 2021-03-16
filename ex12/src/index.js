@@ -1,4 +1,5 @@
 function switchCaseSequential(num) {
+  //Write code below this line
   var answer;
   switch (num) {
     case 1:
